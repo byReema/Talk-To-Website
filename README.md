@@ -19,7 +19,7 @@ Ask questions about a webpage, and the app will find relevant answers from the c
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/byReema/Talk-To-Website.git](https://github.com/byReema/Talk-To-Website.git)
+git clone https://github.com/byReema/Talk-To-Website.git
 ```
 
 2. Create and activate a virtual environment (optional but recommended):
