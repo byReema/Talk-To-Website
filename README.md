@@ -16,3 +16,44 @@ Ask questions about a webpage, and the app will find relevant answers from the c
 - Fast retrieval with embeddings and vector search ⚡️
 
 ---
+1. Clone the repository:
+
+```bash
+git clone [https://github.com/byReema/Talk-To-Website.git](https://github.com/byReema/Talk-To-Website.git)
+cd TalkToWebsite
+```
+
+2. Create and activate a virtual environment (optional but recommended):
+
+```bash
+python -m venv venv
+source venv/bin/activate   # macOS/Linux
+venv\Scripts\activate      # Windows
+```
+
+3.Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+## 🏃 Usage
+
+1. Run the Streamlit app:
+```bash
+streamlit run app.py
+```
+2. Enter a website URL 🌐
+3. Type your question 📝
+4. Press Enter or Submit to get an answer 🤖
+5. View previous conversations in chat history 💬
+6. Clear chat history if needed 🧹
+
+---
+## ⚠️ Notes
+
+-Keep your API key secret — do not upload it to GitHub 🔑
+*This app currently works for websites. Future enhancements could include PDFs, Notion, or text files 📂
+
+Enjoy exploring websites smarter and faster! ✨
