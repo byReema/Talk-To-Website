@@ -35,6 +35,12 @@ venv\Scripts\activate      # Windows
 ```bash
 pip install -r requirements.txt
 ```
+
+4. Create a .env file in the same folder as app.py, and add your GROQ API key like this:
+```bash
+groq_api_key=your_groq_api_key_here
+```
+
 🟣 Make sure to replace your_groq_api_key_here with your actual GROQ API key.
 ---
 ## 🏃 Usage
