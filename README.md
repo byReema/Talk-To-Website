@@ -35,7 +35,7 @@ venv\Scripts\activate      # Windows
 ```bash
 pip install -r requirements.txt
 ```
-
+🟣 Make sure to replace your_groq_api_key_here with your actual GROQ API key.
 ---
 ## 🏃 Usage
 
@@ -52,7 +52,8 @@ streamlit run app.py
 ---
 ## ⚠️ Notes
 
--Keep your API key secret — do not upload it to GitHub 🔑
+- Keep your API key secret — do not upload it to GitHub 🔑
+
 *This app currently works for websites. Future enhancements could include PDFs, Notion, or text files 📂
 
 Enjoy exploring websites smarter and faster! ✨
