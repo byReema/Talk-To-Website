@@ -41,7 +41,8 @@ pip install -r requirements.txt
 groq_api_key=your_groq_api_key_here
 ```
 🟣 Make sure to replace your_groq_api_key_here with your actual GROQ API key.
-**---
+
+---
 ## 🏃 Usage
 
 1. Run the Streamlit app:
